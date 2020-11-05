@@ -2,7 +2,7 @@
     "name": "zcpin/easyphp",
     "description": "a php framework",
     "type": "project",
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "zcpin",
