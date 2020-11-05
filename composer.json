@@ -1,0 +1,14 @@
+{
+    "name": "zcpin/easyphp",
+    "description": "a php framework",
+    "type": "project",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "zcpin",
+            "email": "zhuchongpin@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
